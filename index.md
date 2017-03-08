@@ -12,3 +12,5 @@ We help publishers and impact organisations tell powerful stories, using world-c
 [Meet our team]({{site.baseurl}}/team){:.button}
 
 Contact [team@fireandlion.com](mailto:team@fireandlion.com).
+
+Welcome, Steve.
